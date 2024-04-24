@@ -1,5 +1,4 @@
 package com.cydeo.tests.day07_webtables_utilities_javafaker;
-//import com.cydeo.utilities.BrowserUtils;
 import com.cydeo.utilities.BrowserUtils;
 import com.cydeo.utilities.WebDriverFactory;
 import org.openqa.selenium.JavascriptExecutor;
